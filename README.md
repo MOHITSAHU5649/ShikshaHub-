@@ -67,17 +67,20 @@ Our solution is backed by research on AI in education, adaptive learning, and st
 
 ##lINKS
 
-  WEBSITE LINK :- https://mohitsahu5649.github.io/ShikshaHub-/![image](https://github.com/user-attachments/assets/30482568-3c1e-4eb1-bae3-79f989ba2744)
-  REPOSITORY LINK :- 
+  WEBSITE LINK :- https://mohitsahu5649.github.io/ShikshaHub-/
+  REPOSITORY LINK :- https://github.com/MOHITSAHU5649/ShikshaHub-
 
 ##SCREENSHOTS
-    ![Screenshot (44)](https://github.com/user-attachments/assets/1ad65574-811f-4de9-95c7-d3fa559aba0d)
-  ![Screenshot (46)](https://github.com/user-attachments/assets/968185eb-db1b-43de-b629-5964e9215dae)
+![Screenshot (49)](https://github.com/user-attachments/assets/9c88631a-763d-450d-822d-0aa17dcc3ee4)
+   
+![Screenshot (47)](https://github.com/user-attachments/assets/277fe1dc-6795-4690-b3bb-ed27a245fe62)
 
-![Screenshot (48)](https://github.com/user-attachments/assets/c7fb243b-d11d-4ed1-88fa-4e3feb9ef36a)
-![Screenshot (47)](https://github.com/user-attachments/assets/b20d832a-4c08-4425-be69-6383622eff8a)
-![Screenshot (50)](https://github.com/user-attachments/assets/9dd0ba3a-a539-4372-832c-53dda909c5b5)
-![Screenshot (49)](https://github.com/user-attachments/assets/13af432e-2e57-48c4-b119-ec73b8ed5c49)
+![Screenshot (46)](https://github.com/user-attachments/assets/f978c062-55a3-42a5-b43f-f59788edef07)
+
+![Screenshot (44)](https://github.com/user-attachments/assets/18566cba-70b3-4557-bfdb-7a2cb92edb62)
+
+![Screenshot (50)](https://github.com/user-attachments/assets/f9c7baec-ea1f-4ac5-b56b-4bab81e8f7ab)
+
 
 
 ## 👥 Team Members
