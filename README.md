@@ -69,6 +69,7 @@ Our solution is backed by research on AI in education, adaptive learning, and st
 
   WEBSITE LINK :- https://mohitsahu5649.github.io/ShikshaHub-/
   REPOSITORY LINK :- https://github.com/MOHITSAHU5649/ShikshaHub-
+  YOUTUBE VIDEO LINK:- https://youtu.be/7BVLA3C1eaA?si=0dr03Yvhm8oC5neU
 
 ##SCREENSHOTS
 ![Screenshot (49)](https://github.com/user-attachments/assets/9c88631a-763d-450d-822d-0aa17dcc3ee4)
